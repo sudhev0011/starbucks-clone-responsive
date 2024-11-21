@@ -1,0 +1,60 @@
+#logo {
+  width: 50px;
+}
+#map {
+  scale: 1.3;
+}
+
+.for_images img {
+  width: 100%;
+  height: auto;
+}
+
+.for_text {
+  background-color: #0b7a55;
+}
+.for_text p {
+  font-size: 55px;
+  font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.for_text .p1-sub {
+  font-size: 23px;
+}
+.btn_1 {
+  background-color: rgb(0, 98, 65);
+}
+.txt2 {
+  background-color: #8e0031;
+}
+.txt3 {
+  background-color: #8e0031;
+}
+.txt4 {
+  background-color: #00754a;
+}
+.txt6 {
+  background-color: #f2f0eb;
+}
+.txt7 {
+  background-color: rgb(30, 57, 50);
+}
+.footer_sub {
+  box-shadow: 0 -3px 4px rgba(0, 0, 0, 0.2);
+}
+.f_img img {
+  width: 30px;
+  height: 30px;
+}
+nav a:hover {
+  color: rgb(0, 98, 65) !important;
+}
+nav div button:hover:nth-child(1) {
+  background-color: rgb(168, 52, 52) !important;
+}
+.navbar {
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+}
+
+.for_text_3 {
+  background-color: #06ce8d;
+}
